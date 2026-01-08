@@ -1,0 +1,10 @@
+# Root .gitignore
+.DS_Store
+Thumbs.db
+
+# Docker
+docker-compose.override.yml
+
+# Environment Variables (for the root if you use them here)
+.env
+.env.local
